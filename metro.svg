@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 718 120" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Three-car streamlined metro train, V3">
+  <!-- Two end cars and one intermediate passenger car. -->
+  <g>
+    <g stroke-width="1.8">
+      <path d="M14 76 Q14 64 26 51 C43 33 60 27 88 26 H237 Q242 26 242 32 V82 Q242 87 237 87 H30 Q14 87 14 76 Z"/>
+    </g>
+    <g stroke-width="1.15">
+      <!-- Raked, panoramic cab glass and slim LED signature -->
+      <path d="M29 56 Q46 38 64 35 Q72 34 84 34 V56 Q84 60 80 60 H31 Q26 60 29 56 Z"/>
+      <path d="M50 40 L42 59 M20 65 Q26 63 39 63 H49 L43 67 H21"/>
+      <!-- Flush doors and long horizontal passenger windows -->
+      <rect x="94" y="35" width="26" height="48" rx="2"/>
+      <path d="M107 35 V83"/>
+      <rect x="98" y="39" width="6" height="23" rx="1.5"/>
+      <rect x="110" y="39" width="6" height="23" rx="1.5"/>
+      <rect x="127" y="37" width="44" height="24" rx="4"/>
+      <path d="M149 37 V61"/>
+      <rect x="178" y="35" width="26" height="48" rx="2"/>
+      <path d="M191 35 V83"/>
+      <rect x="182" y="39" width="6" height="23" rx="1.5"/>
+      <rect x="194" y="39" width="6" height="23" rx="1.5"/>
+      <rect x="211" y="37" width="23" height="24" rx="4"/>
+      <!-- Flowing shoulder line, simplified skirt and tucked bogies -->
+      <path d="M15 73 Q35 69 57 69 H90 M124 69 H174 M208 69 H242"/>
+      <path d="M22 80 Q32 82 48 82 H90 M124 82 H174 M208 82 H242" stroke-width=".85"/>
+      <path d="M63 87 V92 H103 V87 M194 87 V92 H234 V87"/>
+      <circle cx="73" cy="95" r="5.4"/><circle cx="93" cy="95" r="5.4"/>
+      <circle cx="204" cy="95" r="5.4"/><circle cx="224" cy="95" r="5.4"/>
+      <path d="M118 26 L123 22 H164 L169 26" stroke-width=".9"/>
+    </g>
+    <g class="sketch" stroke-width=".65" opacity=".43">
+      <path d="M32 48 Q57 28 89 29 H234 M35 84.5 H61 M106 84.5 H174 M208 84.5 H236"/>
+      <path d="M55 52 L68 39 M60 55 L74 41 M132 48 L140 40 M212 49 L220 41"/>
+    </g>
+  </g>
+  <!-- Intermediate passenger car, same roofline and floor height. -->
+  <g id="middle-car">
+    <path stroke-width="1.8" d="M248 32 Q248 26 254 26 H464 Q470 26 470 32 V82 Q470 87 464 87 H254 Q248 87 248 82 Z"/>
+    <g stroke-width="1.15">
+      <rect x="256" y="37" width="27" height="24" rx="4"/>
+      <rect x="290" y="35" width="26" height="48" rx="2"/>
+      <path d="M303 35 V83"/>
+      <rect x="294" y="39" width="6" height="23" rx="1.5"/>
+      <rect x="306" y="39" width="6" height="23" rx="1.5"/>
+      <rect x="323" y="37" width="72" height="24" rx="4"/>
+      <path d="M359 37 V61"/>
+      <rect x="402" y="35" width="26" height="48" rx="2"/>
+      <path d="M415 35 V83"/>
+      <rect x="406" y="39" width="6" height="23" rx="1.5"/>
+      <rect x="418" y="39" width="6" height="23" rx="1.5"/>
+      <rect x="435" y="37" width="27" height="24" rx="4"/>
+      <path d="M248 69 H286 M320 69 H398 M432 69 H470"/>
+      <path d="M248 82 H286 M320 82 H398 M432 82 H470" stroke-width=".85"/>
+      <path d="M266 87 V92 H306 V87 M412 87 V92 H452 V87"/>
+      <circle cx="276" cy="95" r="5.4"/><circle cx="296" cy="95" r="5.4"/>
+      <circle cx="422" cy="95" r="5.4"/><circle cx="442" cy="95" r="5.4"/>
+      <path d="M333 26 L338 22 H380 L385 26" stroke-width=".9"/>
+    </g>
+    <g class="sketch" stroke-width=".65" opacity=".43">
+      <path d="M255 29 H462 M255 84.5 H265 M309 84.5 H398 M432 84.5 H462"/>
+      <path d="M260 49 L268 41 M328 49 L336 41 M365 49 L373 41 M439 49 L447 41"/>
+    </g>
+  </g>
+  <g transform="translate(718 0) scale(-1 1)">
+    <g stroke-width="1.8">
+      <path d="M14 76 Q14 64 26 51 C43 33 60 27 88 26 H237 Q242 26 242 32 V82 Q242 87 237 87 H30 Q14 87 14 76 Z"/>
+    </g>
+    <g stroke-width="1.15">
+      <!-- Raked, panoramic cab glass and slim LED signature -->
+      <path d="M29 56 Q46 38 64 35 Q72 34 84 34 V56 Q84 60 80 60 H31 Q26 60 29 56 Z"/>
+      <path d="M50 40 L42 59 M20 65 Q26 63 39 63 H49 L43 67 H21"/>
+      <!-- Flush doors and long horizontal passenger windows -->
+      <rect x="94" y="35" width="26" height="48" rx="2"/>
+      <path d="M107 35 V83"/>
+      <rect x="98" y="39" width="6" height="23" rx="1.5"/>
+      <rect x="110" y="39" width="6" height="23" rx="1.5"/>
+      <rect x="127" y="37" width="44" height="24" rx="4"/>
+      <path d="M149 37 V61"/>
+      <rect x="178" y="35" width="26" height="48" rx="2"/>
+      <path d="M191 35 V83"/>
+      <rect x="182" y="39" width="6" height="23" rx="1.5"/>
+      <rect x="194" y="39" width="6" height="23" rx="1.5"/>
+      <rect x="211" y="37" width="23" height="24" rx="4"/>
+      <!-- Flowing shoulder line, simplified skirt and tucked bogies -->
+      <path d="M15 73 Q35 69 57 69 H90 M124 69 H174 M208 69 H242"/>
+      <path d="M22 80 Q32 82 48 82 H90 M124 82 H174 M208 82 H242" stroke-width=".85"/>
+      <path d="M63 87 V92 H103 V87 M194 87 V92 H234 V87"/>
+      <circle cx="73" cy="95" r="5.4"/><circle cx="93" cy="95" r="5.4"/>
+      <circle cx="204" cy="95" r="5.4"/><circle cx="224" cy="95" r="5.4"/>
+      <path d="M118 26 L123 22 H164 L169 26" stroke-width=".9"/>
+    </g>
+    <g class="sketch" stroke-width=".65" opacity=".43">
+      <path d="M32 48 Q57 28 89 29 H234 M35 84.5 H61 M106 84.5 H174 M208 84.5 H236"/>
+      <path d="M55 52 L68 39 M60 55 L74 41 M132 48 L140 40 M212 49 L220 41"/>
+    </g>
+  </g>
+  <!-- Flexible inter-car gangways -->
+  <g stroke-width="1.05">
+    <path d="M242 35 H248 M242 76 H248 M242 82 H248 M245 35 V76 M470 35 H476 M470 76 H476 M470 82 H476 M473 35 V76"/>
+  </g>
+</svg>
